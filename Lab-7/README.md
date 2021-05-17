@@ -23,5 +23,5 @@ The goal of this lab is to familiarize the user with the features of Watson Open
 
 ### Step 1. Please click on the link to download the instructions to your machine
 
-[Instructions](https://github.com/bleonardb3/DS_POT_05-20-2021/raw/main/Lab-7/Watson%20OpenScale%20v05-20-2021.pdf)
+[Instructions](https://github.com/bleonardb3/DS_POT_05-20-2021/raw/main/Lab-7/Watson%20OpenScale%20v4.8.pdf)
 
