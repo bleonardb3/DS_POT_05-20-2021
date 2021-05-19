@@ -20,5 +20,5 @@ Upon completing the lab, you will:
 
 ### Step 1. Please click on the link below to download the instructions to your machine.
 
-[Instructions](https://github.com/bleonardb3/DS_POT_05-20-2021/raw/main/Lab-4/fht-spss-modeler-editsv05-20-2021.pdf).
+[Instructions](https://github.com/bleonardb3/DS_POT_05-20-2021/raw/main/Lab-4/fht-spss-modelerv05-20-2021.pdf).
 
