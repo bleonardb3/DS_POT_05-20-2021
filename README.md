@@ -23,7 +23,7 @@ The labs in this workshop will illustrate the myriad features included in Watson
 
 1. [Lab-7](Lab-7) - This lab will feature Watson OpenScale. IBM Watson OpenScale is an open platform that helps remove barriers to enterprise-scale AI. 
 
-1. [Lab-8](Lab-8) - This lab will feature the Decision Optimizaation Modeling Assistant to define, formulate, and run a decision optimization applied to house construction. 
+1. [Lab-8](Lab-8) - This lab will feature the Decision Optimization Modeling Assistant to define, formulate, and run a decision optimization applied to house construction. 
 
 1. [Lab-9](Lab-9) - This lab will fulfill the prerequisites for Labs 3,4, and 5, if Lab-2 is not completed successfully. 
 
