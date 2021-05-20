@@ -10,7 +10,6 @@ This lab will set up the Watson Studio environment for subsequent labs and intro
 Upon completing the lab, you will:
 
 1. Create a project 
-1. Create an object storage instance and associate it with the project
 1. Create a Watson Machine Learning service instance and associate it with the project
 1. Add a collaborator to the project 
 1. Research topics by searching the Gallery
