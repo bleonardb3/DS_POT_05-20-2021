@@ -14,7 +14,6 @@ The goal of the lab is to gain familiarity with the features of the Watson Knowl
 5.	Search the catalog
 6.	Edit/Review/Profile a Data Asset
 7.	Demonstrate access control features. 
-8.	Create and enforce policy (optional) 
 
 ## Instructions:
 
