@@ -10,12 +10,11 @@ The goal of the lab is to gain familiarity with the features of the Watson Knowl
 1.	Create a governed catalog
 2.	Add a member to the catalog
 3.	Add Data Assets to the catalog
-4.	Search the catalog
-5.	Edit/Review/Profile a Data Asset
-6.	Demonstrate access control features. 
-7.	Create and enforce policy (optional) 
-8.	Push the Data Assets to a project. 
-
+4.	Push the Data Assets to a project. 
+5.	Search the catalog
+6.	Edit/Review/Profile a Data Asset
+7.	Demonstrate access control features. 
+8.	Create and enforce policy (optional) 
 
 ## Instructions:
 
