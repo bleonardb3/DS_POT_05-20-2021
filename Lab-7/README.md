@@ -14,12 +14,19 @@ IBM Watson OpenScale is an open platform that helps remove barriers to enterpris
 ## Objectives   
 The goal of this lab is to familiarize the user with the features of Watson OpenScale. Upon completing this lab, you will understand how to:     
 
-1.	Access Watson OpenScale
-1.	View Fairness and Quality Metrics 
-1.	View Drift Metrics.
-1.	Explain a Transaction. 
-1.	Compare Pre-production Models
-1.  Generate a Report. 
+1.	Import a machine learning model 
+2.	Deploy the model 
+3.	Provision Watson OpenScale
+4.	Configure the payload logging database and Machine Learning provider
+5.	Score Data 
+6.	Prepare Deployed Model for Monitoring
+7.	Configure Payload Logging
+8.	Configure Quality
+9.	Configure Fairness 
+10.	Configure Drift 
+11.	Submit Feedback and View Quality Metrics
+12.	Score Data and View Fairness Metrics 
+13.	Explain a Transaction. 
 
 ### Step 1. Please click on the link to download the instructions to your machine
 
